@@ -64,5 +64,20 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Causal is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio; backed by kindred-ventures) and added to the network as a stub for full-pipeline profiling.
-- https://getcausal.ai/
+Causal Labs builds a Large Physics foundation Model (LPM) to learn causality through physics and weather, aiming for general causal intelligence. The company focuses on understanding how actions influence the world, advancing AI by integrating causal reasoning. It offers APIs for causal inference, simulation, and data-driven insights, supporting developers and researchers in building causally-aware applications.
+
+**Areas:** AI · Causal-Intelligence · Machine-Learning · Physics · Weather
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://getcausal.ai/)
+- [Blog](https://blog.getcausal.ai/)
+- [Privacy policy](https://www.causallabs.ai/privacy-policy)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/getcausal-ai/](https://apis.io/providers/getcausal-ai/).
